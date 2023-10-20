@@ -81,7 +81,7 @@ export const About = () => {
                         width: `${data.value}%`,
                       }}
                     >
-                      <div className="progress-value">{nilai(data.value)} {data.value}</div>
+                      <div className="progress-value">{nilai(data.value)}</div>
                     </div>
                   </div>
                 </div>

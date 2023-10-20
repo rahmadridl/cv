@@ -25,26 +25,26 @@ const introdata = {
 };
 
 const dataabout = {
-  title: "abit about my self",
+  title: "About my self",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "I am a graduate of Brawijaya University with a major in Computer Science, specializing in Machine Learning. I have a strong passion for developing intelligent applications utilizing Machine Learning technologies. My academic background and practical experience have equipped me with the skills to create predictive SP2D applications, implement search engines using Python, build company profiles with PHP, develop clinic information systems, and design laboratory information systems using JavaScript. I thrive in collaborative environments, possess excellent communication skills, and am always eager to learn and explore new technologies. With a deep commitment to continuous self-improvement and a desire to make a positive impact, I am enthusiastic about contributing to innovative projects and initiatives.",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "Freelance",
+    where: "-",
     date: "2020",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
+    jobtitle: "Backend Developer",
+    where: "PT WMI",
+    date: "2021",
   },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-  },
+  // {
+  //   jobtitle: "Designer of week",
+  //   where: "ALquds",
+  //   date: "2019",
+  // },
 ];
 
 const skills = [
@@ -72,15 +72,15 @@ const skills = [
 
 const services = [
   {
-    title: "REST API",
+    title: "Web Apps",
     description:
       "Create API",
   },
-//   {
-//     title: "Mobile Apps",
-//     description:
-//       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-//   },
+  {
+    title: "Mobile Apps",
+    description:
+      "Create API",
+  },
 //   {
 //     title: "Wordpress Design",
 //     description:
@@ -168,7 +168,7 @@ const contactConfig = {
   YOUR_EMAIL: "rahmadridho17@gmail.com",
   YOUR_FONE: "(+62)123-4567",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "Feel free to reach out to discuss potential collaborations or exciting opportunities in the tech world.",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
