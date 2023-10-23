@@ -171,9 +171,9 @@ const contactConfig = {
     "Feel free to reach out to discuss potential collaborations or exciting opportunities in the tech world.",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_qqp9dk7",
+  YOUR_TEMPLATE_ID: "template_b24pcgh",
+  YOUR_USER_ID: "0ydFuIXasiiL7ebue",
 };
 
 const socialprofils = {
