@@ -54,7 +54,7 @@ const skills = [
   },
   {
     name: "Php",
-    value: 70,
+    value: 60,
   },
   {
     name: "Javascript",
@@ -74,12 +74,12 @@ const services = [
   {
     title: "Web Apps",
     description:
-      "Create API",
+      "Create REST API",
   },
   {
     title: "Mobile Apps",
     description:
-      "Create API",
+      "Create REST API",
   },
 //   {
 //     title: "Wordpress Design",

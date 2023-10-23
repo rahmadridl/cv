@@ -16,6 +16,7 @@ export const Portfolio = () => {
         <Row className="mb-5 mt-3 pt-md-3">
           <Col lg="8">
             <h1 className="display-4 mb-4"> Portfolio </h1>{" "}
+            <p>coming soon</p>
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
