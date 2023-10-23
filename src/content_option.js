@@ -1,6 +1,6 @@
 const logotext = "Ridl";
 const meta = {
-  title: "Rachmad Ridlo Baihaqi",
+  title: "Ridl",
   // description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
   description: "Saya Rachmad Ridlo Baihaqi _ Backend Developer",
 };
