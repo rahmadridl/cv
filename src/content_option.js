@@ -23,7 +23,7 @@ const introdata = {
     second: "Akurasi",
     third: "Kecepatan",
   },
-  description: "Lembaga Mutiara Madani",
+  description: "Berbasis Klien dengan Komitmen",
 //   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
   your_img_url: "https://images.unsplash.com/photo-1541560052-5e137f229371",
 };
