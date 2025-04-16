@@ -1,3 +1,5 @@
+import file1 from './assets/images/file1.jpeg';
+
 const logotext = "LMM";
 const meta = {
   title: "LMM",
@@ -137,7 +139,7 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "./assets/images/file1.jpeg",
+    img: file1,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
